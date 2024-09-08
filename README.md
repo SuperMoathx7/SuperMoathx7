@@ -2,7 +2,12 @@
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7" /> </p>
 - You may reach out to me at this email address **moathwajeeh06@gmail.com**
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in//moath-abd-albaqi-410885251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/moath-abd-albaqi-410885251/" height="30" width="40" /></a>
+<a href="https://fb.com//profile.php?id=100089538397273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/profile.php?id=100089538397273" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile//supermoathx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="/supermoathx7" height="30" width="40" /></a>
+</p>
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRhZHlsNGl5YzVsZ2R6am5kNXg2ZGpnY3RhemdodW1yeGNrNzZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
 
 ###
