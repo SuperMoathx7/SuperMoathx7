@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋! I'm Moath Abd Albaqi.</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7" /> </p>
-<h3 align="left"> You may reach out to me at this email address moathwajeeh06@gmail.com </h3>
+- You may reach out to me at this email address **moathwajeeh06@gmail.com**
+
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRhZHlsNGl5YzVsZ2R6am5kNXg2ZGpnY3RhemdodW1yeGNrNzZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
 
 ###
