@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Moath Abd Albaqi.</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7" /> </p>
-- You may reach out to me at this email address **moathwajeeh06@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//moath-abd-albaqi-410885251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/moath-abd-albaqi-410885251/" height="30" width="40" /></a>
