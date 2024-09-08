@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moath Abd Albaqi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7" /> </p>
+[![](https://visitcount.itsvg.in/api?id=supermoathx7&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
