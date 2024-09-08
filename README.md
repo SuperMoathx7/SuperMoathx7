@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7" /> </p>
 <ul>
-  <li>You can reach me at <a href="mailto:moathwajeeh06@gmail.com">moathwajeeh06@gmail.com</a></li>
+  <li> 📫 You can reach me at <a href="mailto:moathwajeeh06@gmail.com">moathwajeeh06@gmail.com</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
