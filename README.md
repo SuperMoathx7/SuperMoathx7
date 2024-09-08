@@ -48,6 +48,6 @@
 </div>
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/SuperMoathx7/count.svg"></img>
+  <img src="https://komarev.com/ghpvc/?username=supermoathx7&label=Profile%20views&color=0e75b6&style=flat" alt="supermoathx7)"></img>
 </div>
 
