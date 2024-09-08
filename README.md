@@ -41,14 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/moath-abd-albaqi-410885251/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=supermoathx7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
